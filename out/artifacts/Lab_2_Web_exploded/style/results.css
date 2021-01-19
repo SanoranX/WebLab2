@@ -1,0 +1,18 @@
+table {
+    border: 1px solid #09624e;
+    border-collapse: separate;
+    empty-cells: hide;
+}
+
+th, td {border: 2px solid #09624e;}
+
+.tr{
+    margin: auto;
+    border: 1px solid #09624e;
+    border-collapse: separate;
+    empty-cells: hide;
+}
+
+* {
+    text-align: center;
+}
